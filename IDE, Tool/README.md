@@ -9,6 +9,7 @@
   - [DataBase](#database)
   - [SSH, FTP](#ssh-ftp)
   - [VCS](#vcs)
+  - [협업도구](#협업도구)
   - [More](#more)
 
 ## JavaScript(Node)
@@ -135,6 +136,29 @@
   - 무료
   - Mac, Windows
   - 무난합니다.
+
+## 협업도구
+
+> [!NOTE]
+> 해당 페이지는 부가적인 설명을 하지 않겠습니다. 적자하면 너무 많을 것 같아서요....
+
+|                                  도구명                                  |    추천용도    | 비고                     |
+| :----------------------------------------------------------------------: | :------------: | :----------------------- |
+|                  [Slack](https://slack.com/intl/ko-kr/)                  |  커뮤니케이션  |                          |
+|                     [Discord](https://discord.com/)                      |  커뮤니케이션  |                          |
+|    [Google Meet](https://workspace.google.com/intl/ko/products/meet/)    |    화상회의    | 최대 1시간               |
+|                         [Zoom](https://zoom.us/)                         |    화상회의    | 최대 약 50분             |
+| [Naver Whale On](https://whale.naver.com/banner/details/whaleon/?=main&) |    화상회의    | 제한 없는것으로 알고있음 |
+|                   [Jira](https://www.atlassian.com/ko)                   |      관리      |                          |
+|                  [Notion](https://www.notion.so/ko-kr)                   |  관리, 문서화  |                          |
+|                             `Github Project`                             | 관리, 이슈추적 | Github에서 확인가능      |
+|                     [Figma](https://www.figma.com/)                      | UI, WireFrame  |                          |
+|                    [Oven(Kakao)](https://ovenapp.io/)                    | UI, WireFrame  |                          |
+|                  [ERD Cloud](https://www.erdcloud.com/)                  |      ERD       |                          |
+|                    [dbdiagram](https://dbdiagram.io/)                    |      ERD       |                          |
+|                    [AQuery](https://aquerytool.com/)                     |      ERD       |                          |
+|                   [ERD Editor](https://erd-editor.io/)                   |      ERD       | VScode 플러그인 사용가능 |
+|                    [Draw.io](https://www.drawio.com/)                    |   FlowChart    | VScode 플러그인 사용가능 |
 
 ## More
 
